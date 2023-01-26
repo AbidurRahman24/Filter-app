@@ -13,4 +13,4 @@
 - Javascript
 - MUI
 
-![filter-Project]('./filterpanel.png')
+  <img src="./filterpanel.png" width="350" title="hover text">
