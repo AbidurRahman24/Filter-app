@@ -13,4 +13,4 @@
 - Javascript
 - MUI
 
-  <img src="./filterpanel.png" width="350" title="hover text">
+  <img src="./filterpanel.png" width="700" title="hover text">
