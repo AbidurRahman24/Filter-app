@@ -1,5 +1,5 @@
-# Product filter
- _Product filter is small project for learning and practices to explore my knowlage _
+# AmarShop filter
+ _AmarShop is small filtering project for learning and practices to explore my knowlage _
 
 ## Features
 
